@@ -1,0 +1,10 @@
+An application that you think is both interesting and tractable
+    Graphing Calculator, you plug in a function to the app and it shows the the function on a 2D plane.
+
+    The Sleepyhead Alarm Clock is designed for college students who struggle to wake up on time for their early morning classes. 
+    Instead of a traditional alarm clock, this app uses a playful and unconventional approach to get students out of bed. 
+    Users can connect with their friends who also use the app. If someone fails to complete the wake-up challenge within a certain time, 
+    their friends receive a notification and can choose to send a silly consequence or reward to motivate them.
+
+A wacky application that would really be sweet — Who cares if it can be built or not.
+    The Time-Traveling Homework Helper is a whimsical app that combines education, time travel, and a touch of science fiction to help students with their homework and study sessions in a truly unique way.

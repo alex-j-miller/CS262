@@ -1,0 +1,50 @@
+1. Demographics
+
+    What is your class level? (freshman, sophomore, junior, senior, [super-]+senior)
+        Junior
+    What is your major? (BCS, CS, …)
+        BCS
+    What letter grades did you get in CS 112 and 212?
+        
+2. Technical
+
+    a. Have you worked on any of the following things:
+
+            JavaScript/Typescript applications - no
+            SQL database systems - no
+        If so, what (briefly) have you done?
+
+    b. Have you used any of the following tools:
+
+        Slack - no
+        Trello - no
+        Git and/or GitHub - very little
+    If so, what have you used an how (briefly) have you used it?
+
+    c. What project or projects would you like to work on. Include at least one tractable project, say from the previous lab exercise or from the suggested projects in the team project specification.
+    The Sleepyhead Alarm Clock is designed for college students who struggle to wake up on time for their early morning classes. 
+    Instead of a traditional alarm clock, this app uses a playful and unconventional approach to get students out of bed. 
+    Users can connect with their friends who also use the app. If someone fails to complete the wake-up challenge within a certain time, 
+    their friends receive a notification and can choose to send a silly consequence or reward to motivate them.
+3. Personality
+
+    a. What is your big-five personality type? Please include these scores in your lab solution and, if you haven’t already done so, enter them using this form as well: CS 262 - Personality Traits. (See the reading guide for how to determine this. Please, give the five trait values only.)
+        O - 52
+        C - 67
+        E - 44
+        A - 58
+        N - 25
+    b. Is there anyone you’d really like (or not like!) to work with? We’ll do our best to honor your requests here. Note that teams can have members from any course section (A or B).
+
+    Would Like (in order of want):
+    Jaden Brookens
+    Palmer Ford
+    Sydney Sonday
+    Ellie Sand
+
+    Wouldn't Like:
+    Josh Wilson
+    Faeren Madza
+
+4. Is there anything else you’d like us to know about you before assigning you to a project team?
+    Nope
