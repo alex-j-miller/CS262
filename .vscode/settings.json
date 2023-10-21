@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d94ce71f-a156-489c-8c18-0cab4508a0d1/resourceGroups/cs262-homework02/providers/Microsoft.Web/sites/cs262-homework02",
+    "appService.deploySubpath": "."
+}
