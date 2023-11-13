@@ -13,7 +13,7 @@ http://cs262-commit.azurewebsites.net/notifications/friends/1
 https://labnine.azurewebsites.net/players/-1 (not found)
 https://labnine.azurewebsites.net/blob (undefined endpoint)
 # Which of these endpoints implement actions that are idempotent? nullipotent?
-/players is both when youre creating, but in the web they are all read, which means that it is idempotent
+/username is both when youre creating, but in the web they are all read, which means that it is idempotent
 # Is the service RESTful? If not, why not? If so, what key features make it RESTful.
 yes, because we use put, post, delete, and read, and we use jsons, and urls, and its stateless
 # Is there any evidence in your implementation of an impedance mismatch?
